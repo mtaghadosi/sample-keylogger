@@ -1,0 +1,18 @@
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Release\KeyLoger.exe
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Release\KeyLoger.pdb
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\bin\Release\KeyLoger.exe
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\bin\Release\KeyLoger.pdb
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Release\WindowsApplication1.frm_main.resources
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Release\KeyLoger.Properties.Resources.resources
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Release\KeyLoger.csproj.GenerateResource.Cache
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Release\KeyLoger.exe
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Release\KeyLoger.pdb
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\bin\Release\KeyLoger.exe
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\bin\Release\KeyLoger.pdb
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Release\KeyLoger.Properties.Resources.resources
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Release\KeyLoger.csproj.GenerateResource.Cache
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Release\key_loger.frm_main.resources
+E:\New Arts\Programs\KeyLoger\WindowsApplication1\obj\Release\KeyLoger.exe
+E:\New Arts\Programs\KeyLoger\WindowsApplication1\obj\Release\KeyLoger.pdb

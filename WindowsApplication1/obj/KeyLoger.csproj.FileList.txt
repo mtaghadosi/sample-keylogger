@@ -1,0 +1,16 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WindowsApplication1.frm_main.resources
+obj\Release\KeyLoger.csproj.GenerateResource.Cache
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.frm_main.resources
+obj\Debug\KeyLoger.csproj.GenerateResource.Cache
+bin\Debug\KeyLoger.exe
+bin\Debug\KeyLoger.pdb
+obj\Debug\KeyLoger.Properties.Resources.resources
+obj\Debug\KeyLoger.exe
+obj\Debug\KeyLoger.pdb
+bin\Release\KeyLoger.exe
+bin\Release\KeyLoger.pdb
+obj\Release\KeyLoger.Properties.Resources.resources
+obj\Release\KeyLoger.exe
+obj\Release\KeyLoger.pdb

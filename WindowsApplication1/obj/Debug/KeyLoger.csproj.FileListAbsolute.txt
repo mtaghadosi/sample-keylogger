@@ -1,0 +1,18 @@
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Debug\KeyLoger.exe
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Debug\WindowsApplication1.frm_main.resources
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Debug\KeyLoger.Properties.Resources.resources
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Debug\KeyLoger.csproj.GenerateResource.Cache
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\bin\Debug\KeyLoger.exe
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\bin\Debug\KeyLoger.pdb
+C:\Documents and Settings\Ariyanna.DIAMOND\My Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Debug\KeyLoger.pdb
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Debug\KeyLoger.exe
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Debug\KeyLoger.pdb
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\bin\Debug\KeyLoger.exe
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\bin\Debug\KeyLoger.pdb
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Debug\KeyLoger.Properties.Resources.resources
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Debug\KeyLoger.csproj.GenerateResource.Cache
+D:\Users\Ariyanna\Documents\Visual Studio 2008\Projects\KeyLoger\WindowsApplication1\obj\Debug\key_loger.frm_main.resources
+E:\New Arts\Programs\KeyLoger\WindowsApplication1\obj\Debug\KeyLoger.exe
+E:\New Arts\Programs\KeyLoger\WindowsApplication1\obj\Debug\KeyLoger.pdb
